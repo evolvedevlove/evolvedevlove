@@ -11,11 +11,11 @@
 ## Recent YouTube Videos:
 
 <!-- YOUTUBE:START -->
+- [Mocap and Geometry Nodes](https://www.youtube.com/watch?v=jr00_NqsN74)
 - [007 Museum Dot Com Test Strategy](https://www.youtube.com/watch?v=8g8vi54R1Pw)
 - [NO FRIENDS &lpar;on a powder day&rpar;](https://www.youtube.com/watch?v=5L58-RBB4Bk)
 - [A&amp;P Presents...](https://www.youtube.com/watch?v=iPxYw_iG48o)
 - [land_scrape feedback and discussion](https://www.youtube.com/watch?v=e7rZ24X8osA)
-- [forgotten freshies &lpar;2018&rpar;](https://www.youtube.com/watch?v=hdI1SZaWIig)
 <!-- YOUTUBE:END -->
 
 <!---
