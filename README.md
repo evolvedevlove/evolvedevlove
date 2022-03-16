@@ -11,11 +11,11 @@
 ## Recent YouTube Videos:
 
 <!-- YOUTUBE:START -->
+- [Pythagorean Theorem and Algebra &lpar;explained by an idiot&rpar;](https://www.youtube.com/watch?v=nbx34GJccC4)
 - [Patrick Ropeman](https://www.youtube.com/watch?v=uCKoFontmOE)
 - [ACL rehab - Plyometrics](https://www.youtube.com/watch?v=ncC76OgyaCI)
 - [Progress Update - March 2022](https://www.youtube.com/watch?v=yyiyxc7rcXQ)
 - [Big Rig Interview](https://www.youtube.com/watch?v=Ux_xpJ0I188)
-- [how is my form? almost got muscle ups with full extension.](https://www.youtube.com/watch?v=873m8L6rMRA)
 <!-- YOUTUBE:END -->
 
 <!---
