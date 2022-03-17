@@ -11,7 +11,7 @@
 ## Recent YouTube Videos:
 
 <!-- YOUTUBE:START -->
-- [Pythagorean Theorem and Algebra &lpar;explained by an idiot&rpar;](https://www.youtube.com/watch?v=nbx34GJccC4)
+- [Pythagorean Theorem and Algebra &lpar;explained by a programmer&rpar;](https://www.youtube.com/watch?v=nbx34GJccC4)
 - [Patrick Ropeman](https://www.youtube.com/watch?v=uCKoFontmOE)
 - [ACL rehab - Plyometrics](https://www.youtube.com/watch?v=ncC76OgyaCI)
 - [Progress Update - March 2022](https://www.youtube.com/watch?v=yyiyxc7rcXQ)
