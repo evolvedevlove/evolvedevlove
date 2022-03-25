@@ -11,11 +11,11 @@
 ## Recent YouTube Videos:
 
 <!-- YOUTUBE:START -->
+- [ACL Reconstruction &lpar;5 months&rpar;](https://www.youtube.com/watch?v=1Tkoli1mqz0)
 - [Pythagorean Theorem and Algebra &lpar;explained by a programmer&rpar;](https://www.youtube.com/watch?v=nbx34GJccC4)
 - [Patrick Ropeman](https://www.youtube.com/watch?v=uCKoFontmOE)
 - [ACL rehab - Plyometrics](https://www.youtube.com/watch?v=ncC76OgyaCI)
 - [Progress Update - March 2022](https://www.youtube.com/watch?v=yyiyxc7rcXQ)
-- [Big Rig Interview](https://www.youtube.com/watch?v=Ux_xpJ0I188)
 <!-- YOUTUBE:END -->
 
 <!---
